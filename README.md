@@ -1,6 +1,6 @@
 # **DataAnalysis project:**
 
-**Python file:** 
+**Jupyter Notebook file:** 
         Dataanalysis_Movies_Dataset.ipynb
 
 **Synopsis:**
