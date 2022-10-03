@@ -9,5 +9,9 @@
 **Brief overview:**
 
 1. Imported the required libraries
+2. Read the file and load in a dataframe
+3. Inspect the dataframe indexes and columns
+4. Dropped the year column with NaN values.
+5. For the missing values in certificate, I have used the backfill method to fill up
 
 
