@@ -1,5 +1,8 @@
 # **DataAnalysis project:**
 
+**Python file:** 
+        Dataanalysis_Movies_Dataset.ipynb
+
 **Synopsis:**
         Used a daset from Kaggle to prove my data manipulation skill in python panda dataframes and matplotlib/sns libraries.  The result can be obtained by various means and I have tried to include a variety of methods for diversification.
 
