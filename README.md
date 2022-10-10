@@ -40,8 +40,6 @@ Plotting:
         As seen from the histogram graph, we can find  most of the movies had rating between 6 and 8.
         From the count polot, the recommendable movies are comparably higher than the skipped ones.
         As seen from the graph, we can find the number of movies increased significantly only from 2013
-        
-        
                                                          
                                                         
                                                          
