@@ -1,5 +1,5 @@
 # **DataAnalysis project:**
-
+                                                        Python/pandas/matplotlib
 **Jupyter Notebook file:** 
         Dataanalysis_Movies_Dataset.ipynb
 
@@ -40,3 +40,37 @@ Plotting:
         As seen from the histogram graph, we can find  most of the movies had rating between 6 and 8.
         From the count polot, the recommendable movies are comparably higher than the skipped ones.
         As seen from the graph, we can find the number of movies increased significantly only from 2013
+        
+        
+                                                        SQL
+        
+**Jupyter Notebook file:** 
+
+        SQL Analysis.ipynb
+
+**Synopsis:**
+        Used a daset from Kaggle to prove my data manipulation and analysis skill in SQL. The results can be obtained by various means and I have tried to include a variety of methods for diversification.
+
+**Input Used:** 
+        us-baby-names dataset from kaggle which contains two tables NationalNames and StateNames
+
+**Tools Used:** 
+        SQL
+
+**Brief overview:**
+
+Analysis of dataset:
+
+1.  Display the most common names ending with 'rlie' and having a minimum count of more than 1000 in descending order
+2.  Display the count of the name Marlie with DOB as 1999 by doing an Inner join on nationalnames and statenames tables and applying appropriate filtering
+3.  Adding an extra analysis column which makes use of the case statements of whether count is > 1000 or > 2000 or > 5000
+4.  By using Common Table Expressions(CTEs) & case statements, getting the baby names starting with Mar% and DOB 1910, comparing the count column of statenames vs nationalnames table and adding a CountAnalysis column indicating which table count is higher
+5.  By using subquery, getting the distinct name of the babies in Nationalnames by subsetting the babies born in FL from statenames tables
+6.  By using subquery, Top 5 names of the babies whose count is 200 more than the average count
+
+SUBQUERY Section:
+
+1.  For how many years the name Mary and Minnie has appeared in statenames table. - By using a subquery in select caluse - Method 1
+2.  For how many years the name Mary and Minnie has appeared in statenames table. - By joining tables - Method 2
+3.  For how many years the name Mary and Minnie has appeared in statenames table. - By using a subquery in from clause - Method 3
+
