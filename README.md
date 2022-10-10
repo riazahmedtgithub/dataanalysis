@@ -1,5 +1,5 @@
 # **DataAnalysis project:**
-                                                        Python/pandas/matplotlib
+                                                        **Python/pandas/matplotlib**
 **Jupyter Notebook file:** 
         Dataanalysis_Movies_Dataset.ipynb
 
@@ -42,7 +42,7 @@ Plotting:
         As seen from the graph, we can find the number of movies increased significantly only from 2013
         
         
-                                                        SQL
+                                                         **SQL**
         
 **Jupyter Notebook file:** 
 
