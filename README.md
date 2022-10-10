@@ -1,7 +1,7 @@
 # **DataAnalysis project:**
 
 ******************************************************************************************************************************************************************* 
-                                    This repository contains two DataAnalysis projects, related to python and SQL.
+                       This repository contains two DataAnalysis projects, related to python and SQL.
 ******************************************************************************************************************************************************************* 
 
                                                             **Python/pandas/matplotlib**
