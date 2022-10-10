@@ -46,9 +46,7 @@ Plotting:
                                                          
                                                          **SQL**
         
-**Jupyter Notebook file:** 
-
-        SQL Analysis.ipynb
+**Jupyter Notebook file:** SQL Analysis.ipynb
 
 **Synopsis:**
         Used a daset from Kaggle to prove my data manipulation and analysis skill in SQL. The results can be obtained by various means and I have tried to include a variety of methods for diversification.
