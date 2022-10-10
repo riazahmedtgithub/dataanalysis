@@ -4,7 +4,7 @@
                            This repository contains two DataAnalysis projects, related to python and SQL.
 ******************************************************************************************************************************************************************* 
 
-                                                            **Python/pandas/matplotlib**
+                                                  **Python/pandas/matplotlib**
 
 **Jupyter Notebook file:** 
         Dataanalysis_Movies_Dataset.ipynb
