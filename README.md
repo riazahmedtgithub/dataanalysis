@@ -42,6 +42,10 @@ Plotting:
         As seen from the graph, we can find the number of movies increased significantly only from 2013
         
         
+                                                         
+                                                        
+                                                         
+                                                         
                                                          **SQL**
         
 **Jupyter Notebook file:** 
